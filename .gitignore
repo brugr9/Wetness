@@ -1,8 +1,0 @@
-!Binaries/
-Binaries/*
-!Binaries/ThirdParty/
-
-Build/*
-Intermediate/*
-DerivedDataCache/*
-*_BuiltData.uasset
